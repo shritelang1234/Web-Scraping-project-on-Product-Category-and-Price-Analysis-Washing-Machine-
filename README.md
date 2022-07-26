@@ -23,9 +23,9 @@ consumer’s budget
 
 # After framing DataFrame Following steps are done :
 
-- 1.Data Frame before cleaning
-- 2.Data Cleaning and Manipulation 
-- 3. Data Frame After cleaning
-- 4. Univariate Analysis
-- 5.Bivariate Analysis
-- 6.Multivariate Analysis
+-  Data Frame before cleaning
+-  Data Cleaning and Manipulation 
+-  Data Frame After cleaning
+-  Univariate Analysis
+-  Bivariate Analysis
+-  Multivariate Analysis
